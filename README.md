@@ -1,5 +1,5 @@
 # Better Minecraft
-Welcome to A Better Minecraft, a Fabric Vanilla+ modpack & OptiFine alternative with a few additional features. These include a better video settings UI, a Mods menu, a Just Enough Items\* crafting book experience, Fullbright, and an enhanced hunger bar. 
+Welcome to A Better Minecraft, a Fabric Vanilla+ modpack & OptiFine alternative with a few additional features. These include a better video settings UI, a Mods menu, a Just Enough Items crafting book experience, Fullbright, Litematica, and an enhanced hunger bar. 
 
 <p style="text-align: center;">~~~~~~~~ Main Features ~~~~~~~~</p>
 
@@ -20,5 +20,3 @@ Zooming is also here courtesy of Zoomify. For those who have used Zoomify before
 [Official Website.](https://sites.google.com/view/betterminecraft/)
 
 Bug report is on the site.
-
-<p style="text-align: left;">*Just Enough Items crafting book experience is achieved with Roughly Enough Items which is a JEI alternative with the same features.</p>
